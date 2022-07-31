@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-v1-2019-TodoTracker/static/css/main.4a0dd855.chunk.css",
+    "main.js": "/React-v1-2019-TodoTracker/static/js/main.128f7284.chunk.js",
+    "main.js.map": "/React-v1-2019-TodoTracker/static/js/main.128f7284.chunk.js.map",
+    "runtime-main.js": "/React-v1-2019-TodoTracker/static/js/runtime-main.be4570a6.js",
+    "runtime-main.js.map": "/React-v1-2019-TodoTracker/static/js/runtime-main.be4570a6.js.map",
+    "static/js/2.b10aaaa0.chunk.js": "/React-v1-2019-TodoTracker/static/js/2.b10aaaa0.chunk.js",
+    "static/js/2.b10aaaa0.chunk.js.map": "/React-v1-2019-TodoTracker/static/js/2.b10aaaa0.chunk.js.map",
+    "static/js/3.d4de10ee.chunk.js": "/React-v1-2019-TodoTracker/static/js/3.d4de10ee.chunk.js",
+    "static/js/3.d4de10ee.chunk.js.map": "/React-v1-2019-TodoTracker/static/js/3.d4de10ee.chunk.js.map",
+    "index.html": "/React-v1-2019-TodoTracker/index.html",
+    "static/css/main.4a0dd855.chunk.css.map": "/React-v1-2019-TodoTracker/static/css/main.4a0dd855.chunk.css.map",
+    "static/js/2.b10aaaa0.chunk.js.LICENSE.txt": "/React-v1-2019-TodoTracker/static/js/2.b10aaaa0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be4570a6.js",
+    "static/js/2.b10aaaa0.chunk.js",
+    "static/css/main.4a0dd855.chunk.css",
+    "static/js/main.128f7284.chunk.js"
+  ]
+}
