@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rodprogramdev.github.io/React-v1-2019-TodoTracker/",
   "name": "react-todo-tracker",
   "version": "0.1.0",
   "private": true,
@@ -12,9 +13,11 @@
     "react-icons": "^4.1.0",
     "react-scripts": "4.0.2",
     "web-vitals": "^1.0.1",
-    "homepage": "https://rodprogramdev.github.io/React-v1-2019-TodoTracker/"
+    
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
